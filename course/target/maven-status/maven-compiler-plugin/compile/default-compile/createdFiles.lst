@@ -1,0 +1,3 @@
+com\severo\spring\microservices\course\CourseApplication.class
+com\severo\spring\microservices\course\endpoint\controller\CourseController.class
+com\severo\spring\microservices\course\endpoint\service\CourseService.class
