@@ -1,7 +1,7 @@
 package com.severo.spring.microservices.course.endpoint.service;
 
-import com.severo.spring.microservices.course.model.Course;
-import com.severo.spring.microservices.course.repository.CourseRepository;
+import com.severo.spring.microservices.core.model.Course;
+import com.severo.spring.microservices.core.repository.CourseRepository;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;

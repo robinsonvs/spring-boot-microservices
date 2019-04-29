@@ -1,0 +1,4 @@
+com\severo\spring\microservice\core\model\Course$CourseBuilder.class
+com\severo\spring\microservice\core\repository\CourseRepository.class
+com\severo\spring\microservice\core\model\AbstractEntity.class
+com\severo\spring\microservice\core\model\Course.class

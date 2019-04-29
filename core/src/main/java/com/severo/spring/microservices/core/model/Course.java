@@ -1,4 +1,4 @@
-package com.severo.spring.microservices.course.model;
+package com.severo.spring.microservices.core.model;
 
 import lombok.*;
 
