@@ -12,4 +12,6 @@
 
 ![spring-boot-microservices](https://github.com/robinsonvs/spring-boot-microservices/blob/master/images/servicediscovery.png)
 
+## 3. Gateway
+
 ![spring-boot-microservices](https://github.com/robinsonvs/spring-boot-microservices/blob/master/images/servicediscovery1.png)
