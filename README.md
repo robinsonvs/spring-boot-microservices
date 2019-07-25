@@ -1,4 +1,4 @@
-# spring-boot-microservices
+# spring-boot-microservices project
 
 ## 1. Architecture
 
